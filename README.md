@@ -2,6 +2,10 @@ Midimport
 =========
 This is a NodeBox script that imports MIDI files and makes them available as data for NodeBox 3.
 
+![Gangnam Style](https://raw.github.com/fdb/midimport/master/screenshots/psy-gangnam-style.png)
+
+![Bach Goldverg variation 7](https://raw.github.com/fdb/midimport/master/screenshots/988-v07.png)
+
 The code for this custom node is written in Clojure and stored in the midi.clj file.
 
 Midimport is copyright 2012, Frederik De Bleser. Licensed under the MIT license. Read the LICENSE file for details.
